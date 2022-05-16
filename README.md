@@ -8,3 +8,4 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 
 #### Chapter 2
 - [Our First Smart Contract (Day 1)](chapter2.0/day1/README.md)
+- [Transactions and Scripts (Day 2)](chapter2.0/day2/README.md)
