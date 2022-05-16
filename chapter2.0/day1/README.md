@@ -1,4 +1,5 @@
-# Chapter 2 - Day 1 - Our First Smart Contract
+# Our First Smart Contract
+## Chapter 2, Day 1
 
 For todays quest, please load up a new Flow playground by going to https://play.onflow.org just like we did in this lesson. You will use that for writing your code.
 

@@ -1,4 +1,6 @@
-# Quests
+# Learning Blockchain Concepts
+## Chapter 1, Day 1
+
 #### Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp**
 
 Blockchain is an transactional information technology that enables the tracking of shared digital data, usually in a ledger. Through the use of a unique combination of cryptographic techniques, blockchains are able to maintain the integrity of the ledger without the need for a trusted central party.
