@@ -5,3 +5,6 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 #### Chapter 1
 - [Day 1](chapter1.0/day1/README.md)
 - [Day 2](chapter1.0/day2/README.md)
+
+#### Chapter 2
+- [Day 1](chapter2.0/day1/README.md)
