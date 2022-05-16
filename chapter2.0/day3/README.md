@@ -35,7 +35,7 @@ var unwrappedAge2: Int = age! // Panic and abort
 ```
 
 #### 4. Using this picture below, explain...
-[](https://raw.githubusercontent.com/emerald-dao/beginner-cadence-course/main/chapter2.0/images/wrongcode.png)
+![](https://raw.githubusercontent.com/emerald-dao/beginner-cadence-course/main/chapter2.0/images/wrongcode.png)
 
 **What the error message means?**
 A string is expected, but an optional string was provided.
