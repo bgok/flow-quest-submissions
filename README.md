@@ -11,3 +11,6 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 - [Transactions and Scripts (Day 2)](chapter2.0/day2/README.md)
 - [Arrays, Dictionaries, and Optionals (day 3)](chapter2.0/day3/README.md)
 - [Basic Structs (day 4)](chapter2.0/day4/README.md)
+
+#### Chapter 3
+- [Resources (Day 1)](chapter3.0/day1/README.md)
