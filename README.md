@@ -16,3 +16,4 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 - [Resources (Day 1)](chapter3.0/day1/README.md)
 - [Resources in Dictionaries & Arrays (Day 2)](chapter3.0/day2/README.md)
 - [References (Day 3)](chapter3.0/day3/README.md)
+- [Resource/Struct Interfaces (Day 4)](chapter3.0/day4/README.md)
