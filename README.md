@@ -22,3 +22,4 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 #### Chapter 4
 - [Account Storage - Day 1](chapter4.0/day1/README.md)
 - [Capabilities - Day 2](chapter4.0/day2/README.md)
+- [Creating an NFT Contract: Collections (Part 1/3) - Day 3](chapter4.0/day3/README.md)
