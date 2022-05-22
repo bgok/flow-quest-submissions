@@ -4,6 +4,7 @@
 pub contract CryptoPoops {
   //
   // totalSupply The total number of NFTs in this collection
+  // TODO: Update the totalSupply when an NFT is minted or burned
   //
   pub var totalSupply: UInt64
 
