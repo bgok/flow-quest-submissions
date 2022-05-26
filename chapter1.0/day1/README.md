@@ -1,7 +1,7 @@
 # Learning Blockchain Concepts
 ## Chapter 1, Day 1
 
-#### Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp**
+#### 1. Explain what the Blockchain is in your own words. You can read this to help you, but you don't have to: https://www.investopedia.com/terms/b/blockchain.asp**
 
 Blockchain is an transactional information technology that enables the tracking of shared digital data, usually in a ledger. Through the use of a unique combination of cryptographic techniques, blockchains are able to maintain the integrity of the ledger without the need for a trusted central party.
 
@@ -11,12 +11,12 @@ A single node is selected to produce each block using various randomization sche
 
 When a node produces a block, it is responsible for ensuring that the block and all of the transactions in it adhere to the consensus rules. If they don't, the block is ignored by the other nodes and they lose out on the block reward. In proof-of-stake blockchains, the block producer also loses the funds that they committed to the lottery.
 
-#### Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts
+#### 2. Explain what a Smart Contract is. You can read this to help you, but you don't have to: https://www.ibm.com/topics/smart-contracts
 A smart contract is a program that runs on a blockchain. They define a set of data that will be stored and provide methods that can be called to modify the data. The methods define how the data can be updated and the rules that must be followed.
 
 As an example, NFT track the ownership of a unique digital asset. NFT contracts typically have methods that define how a digital asset is created, what it contains, and how to transfer it to someone else. NFT contracts might only allow the owner of the contract to mint a new NFT or it allow anyone to mint one and require a payment from the minting party. 
 
 Well designed smart contracts can be used to create systems that inherit the characteristics of trustlessness and decentralization from their parent blockchain.
 
-#### Explain the difference between a script and a transaction.
-A script describes a process. A script by itself doesn't do anything until it is executed. A transaction executes a script. It provides parameters to the script and triggers it to execute.
+#### 3. Explain the difference between a script and a transaction.
+In Cadence, a script is used to query a contract. It doesn't require gas, can't update state, and isn't broadcast to the rest of the network. A transaction can update state and must be mined into a block before it takes effect.
