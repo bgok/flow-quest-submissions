@@ -6,7 +6,7 @@
 ### Quest
 
 #### 1. Explain why we wouldn't call changeGreeting in a script.
-Scripts can only read contract data. Changes can only be performed from a script.
+Scripts can only read contract data. Changes can only be performed in a transaction.
 
 #### 2. What does the AuthAccount mean in the prepare phase of the transaction?
 AuthAccount is the wallet that signed and submitted the transaction for execution.
