@@ -27,3 +27,4 @@ My issue in [emerald-doa/beginner-cadence-course](https://github.com/emerald-dao
 
 #### Chapter 5
 - [Pre/Post Conditions & Events - Day 1](chapter5.0/day1/README.md)
+- [Contract Interfaces - Day 2](chapter5.0/day2/README.md)
